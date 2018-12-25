@@ -1,0 +1,13 @@
+bsp_env_sensors_ex.c:50:9:BSP_ENV_SENSOR_FIFO_Get_Data	8	static
+bsp_env_sensors_ex.c:89:9:BSP_ENV_SENSOR_FIFO_Get_Fth_Status	8	static
+bsp_env_sensors_ex.c:128:9:BSP_ENV_SENSOR_FIFO_Get_Full_Status	8	static
+bsp_env_sensors_ex.c:167:9:BSP_ENV_SENSOR_FIFO_Get_Num_Samples	8	static
+bsp_env_sensors_ex.c:206:9:BSP_ENV_SENSOR_FIFO_Get_Ovr_Status	8	static
+bsp_env_sensors_ex.c:245:9:BSP_ENV_SENSOR_FIFO_Reset_Interrupt	8	static
+bsp_env_sensors_ex.c:284:9:BSP_ENV_SENSOR_FIFO_Set_Interrupt	8	static
+bsp_env_sensors_ex.c:323:9:BSP_ENV_SENSOR_FIFO_Set_Mode	8	static
+bsp_env_sensors_ex.c:362:9:BSP_ENV_SENSOR_FIFO_Set_Watermark_Level	8	static
+bsp_env_sensors_ex.c:401:9:BSP_ENV_SENSOR_FIFO_Usage	8	static
+bsp_env_sensors_ex.c:441:9:BSP_ENV_SENSOR_Get_DRDY_Status	8	static
+bsp_env_sensors_ex.c:524:9:BSP_ENV_SENSOR_Read_Register	8	static
+bsp_env_sensors_ex.c:571:9:BSP_ENV_SENSOR_Write_Register	8	static

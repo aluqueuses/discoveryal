@@ -1,0 +1,13 @@
+bsp_motion_sensors.c:70:9:BSP_MOTION_SENSOR_Init	104	static
+bsp_motion_sensors.c:182:9:BSP_MOTION_SENSOR_DeInit	8	static
+bsp_motion_sensors.c:208:9:BSP_MOTION_SENSOR_GetCapabilities	8	static
+bsp_motion_sensors.c:234:9:BSP_MOTION_SENSOR_ReadID	8	static
+bsp_motion_sensors.c:263:9:BSP_MOTION_SENSOR_Enable	8	static
+bsp_motion_sensors.c:302:9:BSP_MOTION_SENSOR_Disable	8	static
+bsp_motion_sensors.c:342:9:BSP_MOTION_SENSOR_GetAxes	8	static
+bsp_motion_sensors.c:382:9:BSP_MOTION_SENSOR_GetAxesRaw	8	static
+bsp_motion_sensors.c:422:9:BSP_MOTION_SENSOR_GetSensitivity	8	static
+bsp_motion_sensors.c:463:9:BSP_MOTION_SENSOR_GetOutputDataRate	8	static
+bsp_motion_sensors.c:503:9:BSP_MOTION_SENSOR_GetFullScale	8	static
+bsp_motion_sensors.c:543:9:BSP_MOTION_SENSOR_SetOutputDataRate	8	static
+bsp_motion_sensors.c:583:9:BSP_MOTION_SENSOR_SetFullScale	8	static

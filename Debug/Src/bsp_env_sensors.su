@@ -1,0 +1,9 @@
+bsp_env_sensors.c:68:9:BSP_ENV_SENSOR_Init	88	static
+bsp_env_sensors.c:156:9:BSP_ENV_SENSOR_DeInit	8	static
+bsp_env_sensors.c:182:9:BSP_ENV_SENSOR_GetCapabilities	8	static
+bsp_env_sensors.c:208:9:BSP_ENV_SENSOR_ReadID	8	static
+bsp_env_sensors.c:237:9:BSP_ENV_SENSOR_Enable	8	static
+bsp_env_sensors.c:276:9:BSP_ENV_SENSOR_Disable	8	static
+bsp_env_sensors.c:316:9:BSP_ENV_SENSOR_GetOutputDataRate	8	static
+bsp_env_sensors.c:356:9:BSP_ENV_SENSOR_SetOutputDataRate	8	static
+bsp_env_sensors.c:396:9:BSP_ENV_SENSOR_GetValue	8	static

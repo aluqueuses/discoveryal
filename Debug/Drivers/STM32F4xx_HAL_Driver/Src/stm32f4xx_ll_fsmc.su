@@ -1,0 +1,6 @@
+stm32f4xx_ll_fsmc.c:145:20:FSMC_NORSRAM_Init	20	static
+stm32f4xx_ll_fsmc.c:254:19:FSMC_NORSRAM_DeInit	8	static
+stm32f4xx_ll_fsmc.c:291:19:FSMC_NORSRAM_Timing_Init	16	static
+stm32f4xx_ll_fsmc.c:346:20:FSMC_NORSRAM_Extended_Timing_Init	12	static
+stm32f4xx_ll_fsmc.c:412:19:FSMC_NORSRAM_WriteOperation_Enable	0	static
+stm32f4xx_ll_fsmc.c:430:19:FSMC_NORSRAM_WriteOperation_Disable	0	static

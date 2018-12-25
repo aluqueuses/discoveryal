@@ -1,0 +1,2 @@
+app_mems-library.c:82:6:MX_X_CUBE_MEMS1_Init	24	static
+app_mems-library.c:108:6:MX_X_CUBE_MEMS1_Process	0	static

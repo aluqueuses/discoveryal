@@ -1,0 +1,5 @@
+main.c:254:14:calibrate_HTS221	48	static
+main.c:332:6:periodicActivity	48	static
+main.c:419:6:SystemClock_Config	184	static
+main.c:157:5:main	168	static
+main.c:1119:6:Error_Handler	0	static
