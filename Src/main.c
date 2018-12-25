@@ -52,6 +52,7 @@
 #include "main.h"
 #include "app_mems-library.h"
 #include "usb_host.h"
+//#include "config.h"
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
@@ -227,7 +228,7 @@ int main(void)
 
     periodicActivity();
     sprintf(strbuf,"Temperature: %d",_temperature);
-    BSP_LCD_SetFont(&Font12);
+    BSP_LCD_SetFont(&Font16);
     BSP_LCD_SetTextColor(LCD_COLOR_BLUE);
     BSP_LCD_FillRect(0, BSP_LCD_GetYSize()/2 + 1, BSP_LCD_GetXSize(), 60);
     BSP_LCD_SetTextColor(LCD_COLOR_WHITE);
